@@ -1,5 +1,5 @@
 {
-  "name": "app",
+  "name": "m365-app-bootstrap",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
